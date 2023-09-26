@@ -6,6 +6,7 @@ Desenvolvedor de software apaixonado por construir o futuro através da programa
 ### 🛠️ Habilidades
 
 - 💻 Linguagens: [Lista de Linguagens]
+
 - 🧰 Ferramentas e Tecnologias: [Lista de Tecnologias]
 - 🚀 Áreas de Interesse: [Suas Áreas de Interesse]
 
