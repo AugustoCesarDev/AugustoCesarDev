@@ -1,4 +1,3 @@
-<!-- Seu Nome -->
 ## Fala Galera, eu sou o Augusto!
 
 Desenvolvedor de software apaixonado por construir o futuro através da programação. Comprometido com a excelência técnica e empenhado em criar soluções que impactam positivamente o mundo.
@@ -17,7 +16,7 @@ Desenvolvedor de software apaixonado por construir o futuro através da programa
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AugustoCesarDev&show_icons=true&theme=dracula)
 
 ### 📫 Contato
 
