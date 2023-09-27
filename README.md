@@ -17,7 +17,8 @@ Desenvolvedor de software apaixonado por construir o futuro através da programa
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AugustoCesarDev&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AugustoCesarDev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoCesarDev&layout=compact&theme=dark)
 
 ### 📫 Contato
 
