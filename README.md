@@ -56,5 +56,5 @@
 - 💼 LinkedIn: [Seu Perfil do LinkedIn]
 - 🌐 Redes Sociais: [Seu Site Pessoal]
 
-<img src="https://komarev.com/ghpvc/?username=seu-usuario" alt="Visualizações do Perfil" />
+<img src="https://komarev.com/ghpvc/?username=AugustoCesarDev" alt="Visualizações do Perfil" />
 
