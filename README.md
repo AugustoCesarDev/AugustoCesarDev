@@ -41,8 +41,8 @@
 
 ### 💼 Projetos em Destaque
 
-- [**Tasksfy**](Link): O gerenciador de tarefas que simplifica sua produtividade e organiza sua vida. Faça mais, com menos esforço.
-- [**Smart Ticket**](Link): Compre ingressos online de forma rápida e segura. Encontre eventos incríveis e garanta sua diversão com praticidade.
+- [**Tasksfy**](Link) O gerenciador de tarefas que simplifica sua produtividade e organiza sua vida. Faça mais, com menos esforço.
+- [**Smart Ticket**](Link) Compre ingressos online de forma rápida e segura. Encontre eventos incríveis e garanta sua diversão com praticidade.
 
 ### 📊 Estatísticas do GitHub
 
