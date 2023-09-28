@@ -23,6 +23,7 @@ Desenvolvedor de software apaixonado por construir o futuro através da programa
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white&labelColor=grey&color=3776AB)
 ![Static Badge](https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white&labelColor=grey&color=092E20)
 
+---
 
 ### Ferramentas e Tecnologias
 
@@ -36,11 +37,13 @@ Desenvolvedor de software apaixonado por construir o futuro através da programa
 ![Static Badge](https://img.shields.io/badge/MacOS-000000?style=plastic&logo=Macos&logoColor=white&labelColor=grey&color=000000)
 ![Static Badge](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=plastic&logo=Adobe%20Photoshop&logoColor=white&labelColor=grey&color=31A8FF)
 
-
+---
 
 ### Áreas de Interesse
 
-<p>Desenvolvimento web, front end e fullstack</p>
+![Static Badge](https://img.shields.io/badge/Desenvolvimento_Web-red?style=plastic&logoColor=red)
+
+---
 
 ### 💼 Projetos em Destaque
 
