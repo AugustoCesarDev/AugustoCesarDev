@@ -1,4 +1,4 @@
-<h1 font-color="White "align="center">Fala Galera, eu sou o Augusto Cesar!</h1>
+<h1 font-color="white "align="center">Fala Galera, eu sou o Augusto Cesar!</h1>
 
 <p align="center">Sou um desenvolvedor de software comprometido com a excelência técnica e apaixonado por criar soluções que fazem a diferença no mundo. Meu objetivo é construir o futuro por meio da programação, usando minha expertise para impactar positivamente a sociedade.</p>
 &nbsp;
