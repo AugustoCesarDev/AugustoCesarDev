@@ -1,4 +1,4 @@
-## Fala Galera, eu sou o Augusto!
+## Fala Galera, eu sou o Augusto Cesar!
 
 Desenvolvedor de software apaixonado por construir o futuro através da programação. Comprometido com a excelência técnica e empenhado em criar soluções que impactam positivamente o mundo.
 
@@ -7,7 +7,9 @@ Desenvolvedor de software apaixonado por construir o futuro através da programa
 
 - 💻 Linguagens: [Lista de Linguagens]
 
-- 🧰 Ferramentas e Tecnologias: [Lista de Tecnologias]
+- 🧰 Ferramentas e Tecnologias:
+        <img alt="Github" src=https://badges.aleen42.com/src/github.svg>
+
 - 🚀 Áreas de Interesse: [Suas Áreas de Interesse]
 
 ### 💼 Projetos em Destaque
