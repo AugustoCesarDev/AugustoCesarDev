@@ -4,7 +4,7 @@
 &nbsp;
 &nbsp;
 
-<h2 align="center">Qualificações</h2>
+<h2>Qualificações</h2>
 
 ### Linguagens
 ![Static Badge](https://img.shields.io/badge/HTML5-red?style=plastic&logo=html5&logoColor=white&labelColor=grey&color=red)
