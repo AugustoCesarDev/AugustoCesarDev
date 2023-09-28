@@ -6,7 +6,6 @@ Desenvolvedor de software apaixonado por construir o futuro através da programa
 ## 🛠️ Habilidades
 
 ### Linguagens
-
 ![Static Badge](https://img.shields.io/badge/HTML5-red?style=plastic&logo=html5&logoColor=white&labelColor=grey&color=red)
 ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=plastic&logo=css3&logoColor=white&labelColor=grey&color=blue)
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=plastic&logo=Javascript&logoColor=white&labelColor=grey&color=yellow)
@@ -22,11 +21,9 @@ Desenvolvedor de software apaixonado por construir o futuro através da programa
 ![Static Badge](https://img.shields.io/badge/Cypress-17202C?style=plastic&logo=Cypress&logoColor=white&labelColor=grey&color=17202C)
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white&labelColor=grey&color=3776AB)
 ![Static Badge](https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white&labelColor=grey&color=092E20)
-
 ---
 
 ### Ferramentas e Tecnologias
-
 ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white&labelColor=grey&color=F24E1E)
 ![Static Badge](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white&labelColor=grey&color=F05032)
 ![Static Badge](https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white&labelColor=grey&color=181717)
@@ -36,13 +33,10 @@ Desenvolvedor de software apaixonado por construir o futuro através da programa
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white&labelColor=grey&color=FCC624)
 ![Static Badge](https://img.shields.io/badge/MacOS-000000?style=plastic&logo=Macos&logoColor=white&labelColor=grey&color=000000)
 ![Static Badge](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=plastic&logo=Adobe%20Photoshop&logoColor=white&labelColor=grey&color=31A8FF)
-
 ---
 
 ### Áreas de Interesse
-
 ![Static Badge](https://img.shields.io/badge/Desenvolvimento_Web-red?style=plastic&logoColor=red)
-
 ---
 
 ### 💼 Projetos em Destaque
