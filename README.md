@@ -1,9 +1,10 @@
 <h1 align="center">Fala Galera, eu sou o Augusto Cesar!</h1>
 
 <p align="center">Desenvolvedor de software apaixonado por construir o futuro através da programação. Comprometido com a excelência técnica e empenhado em criar soluções que impactam positivamente o mundo.</p>
+&nbsp;
+&nbsp;
 
-
-## 🛠️ Habilidades
+<h2 align="center">Qualificações</h2>
 
 ### Linguagens
 ![Static Badge](https://img.shields.io/badge/HTML5-red?style=plastic&logo=html5&logoColor=white&labelColor=grey&color=red)
