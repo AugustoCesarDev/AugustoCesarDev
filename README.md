@@ -52,7 +52,7 @@
 ### 📫 Contato
 
 - 📧 Email: augustocesardev@gmail.com
-- 💼 LinkedIn: [Seu Perfil do LinkedIn]
+- 💼 **[LinkedIn](https://www.linkedin.com/in/augusto-cesar-dev/)**
 - 🌐 Redes Sociais: [Seu Site Pessoal]
 
 <img src="https://komarev.com/ghpvc/?username=AugustoCesarDev" alt="Visualizações do Perfil" />
